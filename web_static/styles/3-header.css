@@ -3,8 +3,8 @@ header {
     height: 70px;
     width: 100%;
     border-bottom: 1px solid #CCCCCC;
-    background-image: url("../images/logo.png") no-repeat center;
+    background-image: url("../images/logo.png");
     background-repeat: no-repeat;
-    background-position: left-top;
+    background-position: left top;
     padding-left: 20px;
 }
