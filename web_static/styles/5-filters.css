@@ -16,6 +16,7 @@ section.filters button {
     height: 48px;
     width: 20%;
     border-radius: 4px;
+    border: none;
     text-align: center;
     margin-right: 30px;
     opacity: 1.0;
