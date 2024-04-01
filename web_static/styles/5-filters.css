@@ -31,25 +31,27 @@ section.filters button:hover {
     width: 25%;
     border-right: 1px solid #DDDDDD;
     margin-right: 0;
+    
 }
 
 .amenities {
     height: 100%;
     width: 25%;
-    margin-left: auto;
+    margin-right: auto;
 }
 
-h3 {
+.title {
+    margin-bottom: 0;
+    margin-left: 15%;
+    text-align: left;
     font-weight: 600;
-    margin: 0px;
-    padding: 0px;
-    margin-top: 17px;
-
 }
 
-h4 {
-    font-weight: 400;
+.subtitle {
+    margin-top: 0;
+    margin-left: 15%;
+    text-align: left;
     font-size: 14px;
-    margin: 0px;
-    padding: 0px;
+    font-weight: 400;
+
 }
